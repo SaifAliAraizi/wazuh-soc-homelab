@@ -54,11 +54,11 @@ See [docs/01-architecture.md](docs/01-architecture.md) for details.
 
 | Wazuh Dashboard | Agent Connected |
 |---|---|
-| ![Dashboard](screenshots/01-dashboard-overview.png) | ![Agents](screenshots/02-agent-active.png) |
+| ![Dashboard](screenshots/2.jpeg) | ![Agents](screenshots/6-agent.jpeg) |
 
 | Sysmon Events in Wazuh | FIM Alert |
 |---|---|
-| ![Sysmon](screenshots/03-sysmon-events.png) | ![FIM](screenshots/04-fim-alert.png) |
+| ![Sysmon](screenshots/7-agent.jpeg) | ![FIM](screenshots/13-FIM.jpeg) |
 
 ---
 
