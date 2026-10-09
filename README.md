@@ -55,7 +55,7 @@ Full details: [docs/01-architecture.md](docs/01-architecture.md)
 
 | Agent connected and active | Sysmon events in Wazuh |
 |---|---|
-| ![Agent active](screenshots/06-agent-active.png) | ![Sysmon alerts](screenshots/09-discover-sysmon-alerts.png) |
+| ![Agent active](../screenshots/) | ![Sysmon alerts](screenshots/09-discover-sysmon-alerts.png) |
 
 | FIM detecting file changes | Wazuh dashboard overview |
 |---|---|
