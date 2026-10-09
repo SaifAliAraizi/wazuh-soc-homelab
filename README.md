@@ -3,7 +3,7 @@
 A hands-on Security Operations Center (SOC) lab built on **Wazuh** to practice endpoint monitoring, log analysis, detection, and incident triage. It is built step by step, and every integration is documented with configs, screenshots, and lessons learned.
 
 > **Status:** 🟢 In progress, actively updated
-> **Last update:** [DATE]
+> **Last update:** October 9, 2026
 
 ---
 
