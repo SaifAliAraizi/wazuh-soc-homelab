@@ -97,4 +97,4 @@ This is an isolated lab for educational purposes. All IPs, hostnames, and creden
 
 ## 👤 Author
 
-**[YOUR NAME]** · [LinkedIn](https://linkedin.com/in/[YOUR-HANDLE]) · [Email]
+**[Syed Saif Ali Shah]** · [LinkedIn](https://www.linkedin.com/in/syed-saif-ali-shah/) · [araizii007@gmail.com]
