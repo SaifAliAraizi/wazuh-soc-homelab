@@ -32,7 +32,7 @@ A hands-on Security Operations Center (SOC) lab built on **Wazuh** to practice e
 ```
 
 Full details: [docs/01-architecture.md](docs/01-architecture.md)
-![Architecture diagram](../screenshots/architecture.png)
+![Dashboard](screenshots/architecture.png)
 
 ---
 
