@@ -47,7 +47,7 @@ FIM (syscheck) and Security Configuration Assessment (SCA) run inside the same a
 
 ## Architecture Diagram
 
-![Architecture diagram](../screenshots/architecture.png)
+![Architecture diagram](../screenshots/architecture.jpeg)
 
 ## Planned Extensions
 
