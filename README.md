@@ -50,7 +50,6 @@ Full details: [docs/01-architecture.md](docs/01-architecture.md)
 | Suricata (network IDS) | 🔜 Planned | [ROADMAP](ROADMAP.md) |
 | EVE-NG network lab | 🔜 Planned | [ROADMAP](ROADMAP.md) |
 
-![Architecture Diagram](screenshots/architecture.png)
 ---
 
 ## 📸 Highlights
@@ -62,8 +61,6 @@ Full details: [docs/01-architecture.md](docs/01-architecture.md)
 | FIM detecting file changes | Wazuh dashboard overview |
 |---|---|
 | ![Sysmon](screenshots/13-FIM.jpeg) | ![FIM](screenshots/2.jpeg) |
-
-![Architecture Diagram](screenshots/architecture.png)
 
 ---
 
