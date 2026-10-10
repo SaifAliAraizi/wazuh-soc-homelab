@@ -49,8 +49,6 @@ FIM (syscheck) and Security Configuration Assessment (SCA) run inside the same a
 
 ![Architecture diagram](../screenshots/architecture.png)
 
-*(Create with draw.io or Excalidraw and export as PNG.)*
-
 ## Planned Extensions
 
 - **Suricata** on a network sensor feeding `eve.json` to Wazuh
